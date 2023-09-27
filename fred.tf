@@ -6,7 +6,7 @@ terraform {
     }
   }
 
-cloud {
+  cloud {
     organization = "024_2023-summer-cloud"
 
     workspaces {
